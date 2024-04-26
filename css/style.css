@@ -1,0 +1,17 @@
+html{
+    background-color: rgb(34, 34, 34);
+}
+#container{
+    text-align: center;
+    font-size: 50px;
+   
+}
+#clock{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(211, 214, 216);
+    margin: 300px auto;
+    border: 2px solid;
+    border-radius: 10px;
+    width: 400px;
+    padding: 20px;
+}
